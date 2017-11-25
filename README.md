@@ -9,7 +9,12 @@ This map was created to highlight a few of my personal favorite places in the ci
 To run application:
 Open the index.html in your web browser.
 
-Relevant links referenced:
+OR
+
+Follow this link: https://dweld13.github.io/Iowa-City-Map/
+
+
+Relevant links referenced during development:
 https://developers.google.com/maps/documentation/javascript/adding-a-google-map
 https://developers.google.com/maps/documentation/javascript/markers
 https://developer.foursquare.com/docs/api/venues/search
